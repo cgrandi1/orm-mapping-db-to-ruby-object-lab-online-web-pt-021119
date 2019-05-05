@@ -6,7 +6,7 @@ class Student
     new_student.id = row[0]
     new_student.name = row[1]
     new_song.length = row[2]
-    new_song 
+    new_song
   end 
 
   def self.all
